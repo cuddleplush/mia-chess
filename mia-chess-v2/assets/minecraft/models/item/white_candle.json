@@ -1,0 +1,8 @@
+{
+  "credit": "By sharkcafe and fraille",
+  "parent": "block/white_candle_one_candle",
+  "textures": {
+    "1": "block/white",
+    "particle": "block/white"
+  }
+}

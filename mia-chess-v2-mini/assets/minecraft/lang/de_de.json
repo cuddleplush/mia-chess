@@ -1,0 +1,15 @@
+{
+  "block.minecraft.black_candle": "Schwarzer Bauer",
+  "block.minecraft.light_gray_candle": "Schwarzer Turm",
+  "block.minecraft.orange_candle": "Schwarzer Springer",
+  "block.minecraft.lime_candle": "Schwarzer Läufer",
+  "block.minecraft.red_candle": "Schwarzer König",
+  "block.minecraft.light_blue_candle": "Schwarze Dame",
+
+  "block.minecraft.white_candle": "Weißer Bauer",
+  "block.minecraft.gray_candle": "Weißer Turm",
+  "block.minecraft.yellow_candle": "Weißer Springer",
+  "block.minecraft.green_candle": "Weißer Läufer",
+  "block.minecraft.purple_candle": "Weißer König",
+  "block.minecraft.pink_candle": "Weiße Dame"
+}

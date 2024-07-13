@@ -1,0 +1,15 @@
+{
+  "block.minecraft.black_candle": "Чёрная Пешка",
+  "block.minecraft.light_gray_candle": "Чёрная Ладья",
+  "block.minecraft.orange_candle": "Чёрный Конь",
+  "block.minecraft.lime_candle": "Чёрный Слон",
+  "block.minecraft.red_candle": "Чёрный Король",
+  "block.minecraft.light_blue_candle": "Чёрный Ферзь",
+
+  "block.minecraft.white_candle": "Белая Пешка",
+  "block.minecraft.gray_candle": "Белая Ладья",
+  "block.minecraft.yellow_candle": "Белый Конь",
+  "block.minecraft.green_candle": "Белый Слон",
+  "block.minecraft.purple_candle": "Белый Король",
+  "block.minecraft.pink_candle": "Белый Ферзь"
+}

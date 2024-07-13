@@ -1,0 +1,15 @@
+{
+  "block.minecraft.black_candle": "Black Pawn",
+  "block.minecraft.light_gray_candle": "Black Rook",
+  "block.minecraft.orange_candle": "Black Knight",
+  "block.minecraft.lime_candle": "Black Bishop",
+  "block.minecraft.red_candle": "Black King",
+  "block.minecraft.light_blue_candle": "Black Queen",
+
+  "block.minecraft.white_candle": "White Pawn",
+  "block.minecraft.gray_candle": "White Rook",
+  "block.minecraft.yellow_candle": "White Knight",
+  "block.minecraft.green_candle": "White Bishop",
+  "block.minecraft.purple_candle": "White King",
+  "block.minecraft.pink_candle": "White Queen"
+}
